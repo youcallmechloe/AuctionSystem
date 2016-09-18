@@ -1,0 +1,2 @@
+# AuctionSystem
+To run the Auction System program, download the Auction System folder and compile all classes (make sure not to delete the Item and ClientItem folders). Run the Server.java class to create the server line, and then run Client.java as many times as you want to create Clients to connect to the server. To correctly close the Server use the 'Stop Server' button to auto disconnect any Clients associated with it. 
