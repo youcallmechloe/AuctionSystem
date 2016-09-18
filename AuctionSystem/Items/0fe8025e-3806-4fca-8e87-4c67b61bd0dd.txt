@@ -1,0 +1,12 @@
+Item
+Book
+its a book
+Books
+1474209838077
+1474210800000
+chloe
+1000
+0fe8025e-3806-4fca-8e87-4c67b61bd0dd
+Items/0fe8025e-3806-4fca-8e87-4c67b61bd0dd.jpg
+Bids:
+100.0,robbie
